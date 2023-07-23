@@ -1,5 +1,11 @@
 // Comentários de linha
-/*Comentários de blocos*/
+
+/*
+Comentários
+de 
+múltiplas 
+linha
+*/
 
 console.log("Ola, Mundo"); //print
 
